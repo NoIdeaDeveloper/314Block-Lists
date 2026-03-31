@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/noideadeveloper/314block
 ! Last modified: 2026-03-31
 ! Expires: 4 days (update frequency)
-! Total entries: 27
+! Total entries: 28
 
 ||alive.github.com^
 ||analytics.hncompanion.com^
@@ -21,6 +21,7 @@
 ||healthchecks.io^
 ||intercom.io^
 ||intercomcdn.com^
+||jquery.com^
 ||launchdarkly.com^
 ||ls.apple.com^
 ||mailjet.com^
