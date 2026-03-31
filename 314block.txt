@@ -3,10 +3,12 @@
 ! Homepage: https://github.com/noideadeveloper/314block
 ! Last modified: 2026-03-30
 ! Expires: 4 days (update frequency)
-! Total entries: 19
+! Total entries: 22
 
 ||appcenter.ms^
 ||bootstrapcdn.com^
+||cdnjs.cloudflare.com^
+||cleantalk.org^
 ||clicks.mail.questrade.com^
 ||cse.google.com^
 ||discourse-cdn.com^
@@ -22,5 +24,6 @@
 ||smassets.net^
 ||stripocdn.email^
 ||surveymonkey.com^
+||typekit.net^
 ||wp.com^
 ||zendesk.com^
