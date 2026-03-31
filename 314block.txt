@@ -1,10 +1,12 @@
 ! Title: 314Block
 ! Description: Aggressive personal blocklist to fill-in the gaps others miss
 ! Homepage: https://github.com/noideadeveloper/314block
-! Last modified: 2026-03-30
+! Last modified: 2026-03-31
 ! Expires: 4 days (update frequency)
-! Total entries: 22
+! Total entries: 26
 
+||alive.github.com^
+||analytics.hncompanion.com^
 ||appcenter.ms^
 ||bootstrapcdn.com^
 ||cdnjs.cloudflare.com^
@@ -16,12 +18,14 @@
 ||disquscdn.com^
 ||fontawesome.com^
 ||gravatar.com^
+||healthchecks.io^
 ||intercom.io^
 ||intercomcdn.com^
 ||launchdarkly.com^
 ||ls.apple.com^
 ||mailjet.com^
 ||smassets.net^
+||socialintents.com^
 ||stripocdn.email^
 ||surveymonkey.com^
 ||typekit.net^
