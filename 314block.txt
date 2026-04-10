@@ -33,3 +33,4 @@
 ||typekit.net^
 ||wp.com^
 ||zendesk.com^
+||iphoneincanada.ca/ads-beacon.js^
